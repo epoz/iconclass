@@ -2,6 +2,6 @@
 A multilingual subject classification system for cultural content
 For more information see: http://www.iconclass.org/
 
-Licensed under http://creativecommons.org/licenses/by-sa/4.0/
+Please note that there is now an organisation at: https://github.com/iconclass
 
-Made by Etienne Posthumus <eposthumus@gmail.com>
+This repo is deprecated. For more information, you can mail info@iconclass.org
